@@ -1,0 +1,46 @@
+html {
+  background-image: url(./pics/band1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+ 
+
+  
+
+}
+
+h1 {
+  letter-spacing: 6px;
+  text-align: center;
+  margin-top: 2400px;
+  left: calc(50% - 110px);
+  font-size: 1000px;
+  font-weight: 100;
+  font-family: 'Nanum Brush Script', cursive;
+  transition: 0.7s;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+a:hover {
+  color: black;
+  opacity: 0.9;
+  transition: 03s;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  color: black;
+}
